@@ -1,6 +1,6 @@
-# [ClaireWP - Wordpress Theme Framework v1.1 ](http://wilwaldon.com/claire)
+# [ClaireWP - Wordpress Theme Framework v1 ](http://wilwaldon.com/claire)
 
-Based on Twitter Bootstrap 3.x
+A simple Blogging template Based on Twitter Bootstrap 3.x
 
 ## Quick start
 
