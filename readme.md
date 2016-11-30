@@ -1,4 +1,4 @@
-# [ClaireWP - Wordpress Theme Framework v1.1 ](http://wilwaldon.com)
+# [ClaireWP - Wordpress Theme Framework v1.1 ](http://wilwaldon.com/claire)
 
 Based on Twitter Bootstrap 3.x
 
@@ -12,4 +12,4 @@ Submit your pull request and I will check it.
 
 ## Copyright and license
 
-Copyright 2014 upplex under GPL 3.0(LICENSE)
+Copyright 2015 Wil Waldon under GPL 3.0(LICENSE)
